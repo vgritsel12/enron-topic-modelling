@@ -1,0 +1,7 @@
+numpy
+pandas
+kagglehub
+scikit-learn
+gensim
+notebook
+jupyter
