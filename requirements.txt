@@ -1,7 +1,13 @@
+---
+
+## requirements.txt
+
+```txt
 numpy
 pandas
-kagglehub
 scikit-learn
 gensim
-notebook
+kagglehub
 jupyter
+notebook
+ipykernel
